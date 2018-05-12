@@ -1,4 +1,5 @@
 _repo: A-Corner-of-Spain_47628
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Hume, Martin A. S. (Martin Andrew Sharp)
@@ -15,12 +16,17 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '33136'
     url: http://www.gutenberg.org/2009/agents/33136
+covers:
+- cover_type: archival
+  image_path: 47628-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, Walter
     gutenberg_agent_id: '44403'
     url: http://www.gutenberg.org/2009/agents/44403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47628#A-Corner-of-Spain
 gutenberg_issued: '2014-12-11'
 gutenberg_type: Text
 identifiers:
